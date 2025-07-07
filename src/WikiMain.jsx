@@ -1,3 +1,5 @@
+import lang from './assets/lang.png';
+import arr from './assets/arr.png';
 
 function WikiMain () {
 
@@ -19,9 +21,9 @@ function WikiMain () {
                     <div className="boxUpImgLang">
                         <h6 className="flxBxUpLang">
                             <a className="boxUpImgLang" href="#" style={{textDecoration: 'none', color: 'black'}}>
-                                <img src="/WikiPedia-Clone-test-/src/lang.png" alt="" />
+                                <img src={lang} alt="" />
                                 <p className="boxUpImgLangParagraph">5 languages</p>
-                                <img src="/WikiPedia-Clone-test-/src/arr.png" alt="" />
+                                <img src={arr} alt="" />
                             </a>
                         </h6>
                     </div>
