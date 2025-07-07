@@ -19,9 +19,9 @@ function WikiMain () {
                     <div className="boxUpImgLang">
                         <h6 className="flxBxUpLang">
                             <a className="boxUpImgLang" href="#" style={{textDecoration: 'none', color: 'black'}}>
-                                <img src="src/lang.png" alt="" />
+                                <img src="/WikiPedia-Clone-test-/src/lang.png" alt="" />
                                 <p className="boxUpImgLangParagraph">5 languages</p>
-                                <img src="src/arr.png" alt="" />
+                                <img src="/WikiPedia-Clone-test-/src/arr.png" alt="" />
                             </a>
                         </h6>
                     </div>
@@ -38,7 +38,7 @@ function WikiMain () {
                             <p>Read</p>
                             <p><a href="#">Edit</a></p>
                             <p><a href="#">View History</a></p>
-                            <p className="toolsParagraph">Tools</p><img src="src/arr.png" alt="" />
+                            <p className="toolsParagraph">Tools</p><img src="/WikiPedia-Clone-test-/src/arr.png" alt="" />
                         </div>
                     </div>
                     <div>
